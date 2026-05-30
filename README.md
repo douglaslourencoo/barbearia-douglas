@@ -98,5 +98,5 @@ O projeto simula:
 
 ## 🎥 Demonstração do Projeto
 
-![Demonstração da Barbearia](./assets/barquiaprojeto.2026.gif)
+![Demonstração da Barbearia](./assets/barbeariaprojeto.2026.gif)
 
