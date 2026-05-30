@@ -86,3 +86,12 @@ O projeto simula:
 
 ## 📸 Preview do Projeto
 
+
+<img width="1107" height="627" alt="image" src="https://github.com/user-attachments/assets/5f9786d4-a8e2-47f0-8d37-20f00488b7c2" />
+
+
+<img width="1106" height="624" alt="image" src="https://github.com/user-attachments/assets/3166f09a-d700-4616-88ce-b54b3311829c" />
+
+
+<img width="1103" height="618" alt="image" src="https://github.com/user-attachments/assets/1182795a-02b0-4d9f-b47d-df2e2034450f" />
+
