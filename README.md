@@ -98,5 +98,5 @@ O projeto simula:
 
 ## 🎥 Demonstração do Projeto
 
-![Demonstração do sistema](C:\Users\tccur\OneDrive\Imagens\barbeariaprojeto.2026.gif)
+![Demonstração do sistema](./C:\Users\tccur\OneDrive\Imagens\barbeariaprojeto.2026.gif)
 
