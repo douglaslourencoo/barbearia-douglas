@@ -95,3 +95,8 @@ O projeto simula:
 
 <img width="1103" height="618" alt="image" src="https://github.com/user-attachments/assets/1182795a-02b0-4d9f-b47d-df2e2034450f" />
 
+
+## 🎥 Demonstração do Projeto
+
+![Demonstração do sistema](C:\Users\tccur\OneDrive\Imagens\barbeariaprojeto.2026.gif)
+
