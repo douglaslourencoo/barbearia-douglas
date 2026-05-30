@@ -1,20 +1,88 @@
-# Landing Page de uma Barber Shop 
+# 💈 Barbearia Douglas — Sistema de Gestão e Agendamentos
 
-🔍 Exploração Simples: Com uma navegação fluida, os clientes podem explorar os conteúdos de forma intuitiva.
+## 📊 Visão Geral
 
-🗓️ Interação dinâmica: Com JavaScript os clientes podem realizar agendamentos dinâmicos e com facilidade.
+O **Barbearia Douglas** é um sistema desenvolvido para simular e organizar a gestão de uma barbearia, com foco em **controle de clientes, agendamentos e processos operacionais**.
 
-📍 Reservas Descomplicadas: Integrando o WhatsApp torna-se possível colocar endereço, tirar dúvidas, etc. sem sair de casa.
+O projeto explora conceitos de **desenvolvimento web, organização de dados e lógica de sistema**, simulando um ambiente real de negócio no setor de serviços.
 
-## Tecnologia e Design:
-- HTML
-- CSS
-- JavaScript
-- Sass
-- GitHub
+---
 
+## 🎯 Objetivo do Projeto
 
-🚀 Impulsionando a Experiência: Essas abordagens visam melhorar a experiência do cliente, tornando cada interação memorável desde a escolha até o serviço.
+- Simular o funcionamento de uma barbearia moderna
+- Organizar fluxo de clientes e serviços
+- Praticar lógica de sistemas de agendamento
+- Explorar desenvolvimento de aplicações web
+- Criar base para evolução para sistema SaaS
 
+---
 
-Veja esses e outros projetos desenvolvidos por mim no portfólio: https://www.linkedin.com/in/douglas-lourencoo-986193282/
+## 🧠 Problema de Negócio
+
+Barbearias tradicionais enfrentam problemas como:
+
+- Falta de organização de horários
+- Agendamentos feitos manualmente (WhatsApp / papel)
+- Conflitos de horários
+- Baixa visibilidade da agenda do profissional
+- Dificuldade de controle de clientes recorrentes
+
+---
+
+## 🧩 Solução Proposta
+
+O sistema permite:
+
+- Registro de clientes
+- Controle de agendamentos
+- Organização de horários disponíveis
+- Estruturação de fluxo operacional da barbearia
+- Simulação de sistema digital de gestão
+
+---
+
+## ⚙️ Funcionalidades
+
+- Cadastro de clientes  
+- Agendamento de serviços  
+- Controle de horários  
+- Visualização de agenda  
+- Organização de atendimentos  
+- Estrutura básica de operação digital  
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Lógica de programação aplicada  
+- Estrutura de dados simples (arrays/objetos)
+
+---
+
+## 🧠 Conceitos Aplicados
+
+- CRUD básico (Create, Read, Update, Delete)  
+- Manipulação de dados no front-end  
+- Estruturação de sistema de agendamento  
+- Lógica de fluxo de atendimento  
+- Organização de regras de negócio  
+
+---
+
+## 💡 Arquitetura do Sistema
+
+O projeto simula:
+
+- Cliente → solicita serviço  
+- Sistema → organiza horário  
+- Profissional → executa atendimento  
+- Sistema → atualiza agenda  
+
+---
+
+## 📸 Preview do Projeto
+
